@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Lato&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    padding: 20px;
+}
+
+.full-scoreboard{
+    background-color: yellow;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.user-scoreboard{
+display: inline-block;
+}
+
+.computer-scoreboard{
+    display: inline-block;
+}
+
+.choice-container{
+    text-align: center;
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.choice{
+    display: inline-block;
+}
+
+.result-message{
+    text-align: center;
+    font-size: 24px;
+    font-family: Lato, sans-seriff;
+    background-color: green;
+}
+

@@ -42,10 +42,6 @@ img{
     height: 70px;
 }
 
-#user-score{
-
-}
-
 .computer-label{
     background-color: rgb(248, 103, 6);
     color: white;
@@ -58,10 +54,6 @@ img{
     margin: 10px;
     width: 150px;
     height: 70px;
-}
-
-#computer-score{
-
 }
 
 .choice-container{
